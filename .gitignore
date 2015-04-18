@@ -1,0 +1,15 @@
+# PyCharm
+# http://www.jetbrains.com/pycharm/webhelp/project.html
+.idea
+.iml
+
+*.mp3
+
+*.pyc
+*.swp
+
+*.desktop
+*.md~
+*.py~
+
+sphinx_doc/build
